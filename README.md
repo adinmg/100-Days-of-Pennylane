@@ -1,13 +1,11 @@
- #### 100 Days of <img src="https://pennylane.ai/img/pennylane.svg" alt="drawing" width="90"/>
+## [100 Days of Pennylane](https://pennylane.ai/)
 
-<img src="https://pennylane.ai/img/logo.png" alt="drawing" width="200"/>
+<img src="https://github.com/anonymousr007/100-Days-of-Pennylane/blob/main/pennylane_stacked.png" alt="drawing" width="300"/>
 
 | Week                               | Topics | 
 | ---------------------------------- | ------ |
 | Week 1 (23rd - 29th) November 2022 | **Pennylane:** Official Paper |
 |                                    | **Xanadu Quantum Codebook:** Intro to Quantum Computing |
-
-
 
 - [PennyLane: Automatic differentiation of hybrid quantum-classical computations](https://arxiv.org/abs/1811.04968)
 - [Xanadu Quantum Codebook](https://codebook.xanadu.ai/) and [Github: Codebook](https://github.com/XanaduAI/Xanadu-Quantum-Codebook)
