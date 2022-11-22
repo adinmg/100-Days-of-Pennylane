@@ -1,9 +1,9 @@
 ## [100 Days of Pennylane](pennylane.ai)
 
-| Week | Topics | 
-| ---- | ------ |
-| 1.   | **Pennylane:** Official Paper |
-|      | **Xanadu Quantum Codebook:** Intro to Quantum Computing |
+| Week                               | Topics | 
+| ---------------------------------- | ------ |
+| Week 1 (23rd - 29th) November 2022 | **Pennylane:** Official Paper |
+|                                    | **Xanadu Quantum Codebook:** Intro to Quantum Computing |
 
 
 
