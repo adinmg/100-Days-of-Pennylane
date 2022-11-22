@@ -1,4 +1,6 @@
-## [100 Days of Pennylane](pennylane.ai)
+ #### 100 Days of <img src="https://pennylane.ai/img/pennylane.svg" alt="drawing" width="90"/>
+
+<img src="https://pennylane.ai/img/logo.png" alt="drawing" width="200"/>
 
 | Week                               | Topics | 
 | ---------------------------------- | ------ |
