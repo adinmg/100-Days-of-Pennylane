@@ -1,0 +1,6 @@
+- [Quantum-Computation by Bhupesh Bishnoi†](https://arxiv.org/pdf/2006.02799.pdf)
+- [Quantum Computing 2022](https://arxiv.org/pdf/2201.09877.pdf)
+- [Everything You Always Wanted to Know About Quantum Circuits](https://arxiv.org/pdf/2208.11725.pdf)
+- [An Introduction to Quantum Computing, Without the Physics](https://arxiv.org/pdf/1708.03684.pdf)
+- [An Introduction to Quantum Computing for Non-Physicists](https://arxiv.org/pdf/quant-ph/9809016.pdf)
+- [Quantum computations (course of lectures](https://arxiv.org/pdf/2107.08047.pdf)
